@@ -1,0 +1,39 @@
+# Colors (Teenage Engineering)
+colors:
+  # Default colors
+  primary:
+    background: '0x0F0E13'
+    foreground: '0xA2A3B7'
+
+  cursor:
+    text: '0xFFFFFF'
+    cursor: '0xA2A3B7'
+
+  Bright:
+    black:   '0x0F0E13'
+    red:     '0x8D2E44'
+    green:   '0x315031'
+    yellow:  '0x633B44'
+    blue:    '0x494B7C'
+    magenta: '0x7D2A72'
+    cyan:    '0x7D2A72'
+    white:   '0xFFFFFF'
+
+  normal:
+    black:   '0x0F0E13'
+    red:     '0xFD376C'
+    green:   '0x77C56F'
+    yellow:  '0xD2B0B1'
+    blue:    '0x6569C0'
+    magenta: '0xBD2792'
+    cyan:    '0x52A9EC'
+    white:   '0xFFFFFF'
+ 
+font:
+  normal:
+     family: Source Code Pro
+     style: Regular
+  bold:
+    family: Source Code Pro
+    style: Bold
+  size: 13
